@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9626ff6-4f2e-4735-81c1-4864b00d183b" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rl4j-extras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/graph/TD3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/hindsightReplay/Experience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/hindsightReplay/ReplayBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/networks/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vsb/extras/models/td3/networks/TD3Network.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="vyomkeshj" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1alKvYrbj0s8OmqTKuAGWFfWoJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/usr/bin/visualvm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9626ff6-4f2e-4735-81c1-4864b00d183b" name="Default Changelist" comment="" />
+      <created>1587304971951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587304971951</updated>
+      <workItem from="1587304976951" duration="1559000" />
+      <workItem from="1587333084773" duration="3001000" />
+      <workItem from="1587403086876" duration="5741000" />
+      <workItem from="1587550986006" duration="28120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3036" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1587645725890">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3036" y="260" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587645725890" />
+    <state x="2662" y="477" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587388390528">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2662" y="477" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587388390528" />
+    <state x="2437" y="87" key="CommitChangelistDialog2" timestamp="1587647559863">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2437" y="87" key="CommitChangelistDialog2/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587647559863" />
+    <state x="2771" y="439" width="675" height="198" key="Github.ShareDialog" timestamp="1587647380183">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2771" y="439" width="675" height="198" key="Github.ShareDialog/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587647380183" />
+    <state x="2621" y="219" key="Github.UntrackedFilesDialog" timestamp="1587647427051">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2621" y="219" key="Github.UntrackedFilesDialog/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587647427051" />
+    <state x="2406" y="174" key="SettingsEditor" timestamp="1587647337534">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2406" y="174" key="SettingsEditor/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587647337534" />
+    <state x="2512" y="275" key="Vcs.Push.Dialog.v2" timestamp="1587647468250">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2512" y="275" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587647468250" />
+    <state x="2624" y="366" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587402826410">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2624" y="366" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587402826410" />
+    <state x="2575" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1587571832230">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2575" y="236" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.24.1920.1056@1920.0.1920.1080" timestamp="1587571832230" />
+  </component>
+</project>
